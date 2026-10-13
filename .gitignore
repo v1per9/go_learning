@@ -1,0 +1,14 @@
+# 参考材料：只保留在本地，不提交
+SourceCode/
+*.pdf
+
+# Go 构建与模块缓存
+.gocache/
+.gomodcache/
+*.exe
+*.test
+*.out
+
+# 编辑器临时文件
+*.swp
+*.tmp
